@@ -1,2 +1,2 @@
 # heart_disease
-Heart Disease Prediction Data Analysis
+Cardiovascular Disease Prediction
